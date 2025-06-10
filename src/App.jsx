@@ -1,7 +1,7 @@
 import "./App.css";
 import Interruptor from "./components/Interruptor";
 import Contador from "./components/Contador";
-import Lista from "./components/Lista";
+import Lista from "./components/TextoInteractivo";
 import Tema from "./components/Tema";
 
 function App() {
